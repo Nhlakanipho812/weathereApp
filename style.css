@@ -1,0 +1,12 @@
+.img-size {
+	height: 32px;
+	width: 32px;
+}
+.timezone {
+	color: grey;
+}
+.list {
+	height: 700px;
+	overflow: hidden;
+	overflow-y: scroll;
+}
