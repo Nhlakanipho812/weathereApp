@@ -2,7 +2,7 @@
 
 this project is built using angularJS
 
-It fetches weather in your current location and displays it in an organised information.
+It fetches weather in your current location and displays it in an organised way.
 
 Instructions
 ====================
